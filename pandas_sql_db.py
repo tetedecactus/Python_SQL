@@ -1,3 +1,5 @@
+#https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/
+
 import mysql,connector
 from mysql.connector import Error
 import pandas as pd
