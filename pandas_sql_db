@@ -35,7 +35,6 @@ CREATE TABLE teacher (
 
 connection = create_server_connection('localhost', 'root', pw)
 
-
 def create_database(connection, query):
     cursor = connection.cursor()
     try:
